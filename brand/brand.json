@@ -1,0 +1,45 @@
+{
+  "_help": "Your brand. Edit these values: every render reads them. Keep one accent colour and use it only for emphasis.",
+  "name": "Your Name",
+  "mark": "YN",
+  "tagline": "Your tagline here",
+  "handles": {
+    "youtube": "@yourchannel",
+    "tiktok": "@yourhandle",
+    "instagram": "@yourhandle",
+    "facebook": "Your Page"
+  },
+  "dark": {
+    "background": "#0e0f13",
+    "surface": "#16181d",
+    "surfaceRaised": "#1d2026",
+    "foreground": "#f2f2f0",
+    "muted": "#a6a9b0",
+    "border": "#2a2d34",
+    "accent": "#ffc83d",
+    "accentSoft": "#ffd970",
+    "onAccent": "#1a1300"
+  },
+  "light": {
+    "background": "#fafaf8",
+    "surface": "#ffffff",
+    "surfaceRaised": "#f2f2ee",
+    "foreground": "#15171c",
+    "muted": "#4d5360",
+    "border": "#e4e3de",
+    "accent": "#9a6a00",
+    "accentSoft": "#ffc83d",
+    "onAccent": "#ffffff"
+  },
+  "video": {
+    "defaultTheme": "dark",
+    "captions": {
+      "text": "#f2f2f0",
+      "highlight": "#ffc83d",
+      "highlightText": "#1a1300",
+      "stroke": "rgba(14,15,19,0.85)",
+      "maxWordsShort": 3,
+      "case": "sentence"
+    }
+  }
+}

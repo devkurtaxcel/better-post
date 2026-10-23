@@ -1,0 +1,17 @@
+# footage and renders stay on your machine
+contents/*
+!contents/README.md
+projects/*
+!projects/README.md
+assets/music/*
+!assets/music/README.md
+assets/sfx/*
+!assets/sfx/README.md
+assets/catalog/
+assets/REVIEW.html
+# environments
+.venv/
+engine/node_modules/
+__pycache__/
+*.pyc
+.DS_Store

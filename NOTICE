@@ -1,0 +1,11 @@
+better-post
+Copyright 2026 Kurt Axcel (@povniaxcel)
+
+This product was created by Kurt Axcel (https://links.kurtaxcel.com).
+Facebook: Axcel's POV https://www.facebook.com/POVniAxcel · SIDEQUEST https://www.facebook.com/SIDEQUESTniAxcel/
+TikTok / Instagram / Threads: @povniaxcel · GitHub: https://github.com/devkurtaxcel
+If you redistribute this software or a derivative of it, you must keep this NOTICE file with it
+(Apache License 2.0, section 4(d)). If you post videos made with it, please credit @povniaxcel.
+
+Third-party software used at runtime (not included in this repository) keeps its own licence,
+including Remotion (https://www.remotion.dev/license), ffmpeg, faster-whisper and librosa.
